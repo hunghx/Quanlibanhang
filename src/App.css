@@ -1,6 +1,14 @@
 .App {
   text-align: center;
 }
+form {
+  width: 500px;
+  margin: 15px auto;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+  background: orange;
+}
 
 .App-logo {
   height: 40vmin;
